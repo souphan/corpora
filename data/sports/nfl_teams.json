@@ -255,7 +255,8 @@
       "division": "West",
       "city": "Seattle",
       "state": "WA",
-      "stadium": "CenturyLink Field"
+      "stadium": "CenturyLink Field",
+      "quarterback": "Russell Wilson"
     }
   ]
 }
